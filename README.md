@@ -15,14 +15,15 @@ I am developing a Local AI Agentic System, leveraging the LangChain framework to
 
 ## 🛠️ Tech Stack
 
-| **Category**         | **Tools & Technologies**                                 |
-| :---                 | :---                                                     |
-| **Languages**         | Python, SQL, Bash                                        |
-| **Data Manipulation** | Pandas, NumPy           |
-| **Machine Learning**  | Scikit-learn, XGBoost, TensorFlow/Keras, LangChain (for LLM Ops) |
-| **Visualization**     | Matplotlib, Seaborn                                     |
-| **Deployment/Apps**   | Streamlit, Docker                |
-| **Version Control**   | Git, GitHub                                              |
+| **Category**           | **Tools & Technologies**                                          |
+| :---                   | :---                                                            |
+| **Languages**           | Python, SQL, Bash, JavaScript, HTML, CSS                         |
+| **Machine Learning**    | Scikit-learn, XGBoost, TensorFlow/Keras, LangChain (for LLM Ops) |
+| **Data Manipulation**   | Pandas, NumPy                   |
+| **Deployment/Apps**     | Streamlit, Docker, Kubernetes, AWS                      |
+| **Version Control**     | Git, GitHub                                                     |
+| **Web Development**     | React, Node.js                                       |
+| **Databases**           | MongoDB                                                         |
 
 
 ## 🤝 Let’s Connect!
