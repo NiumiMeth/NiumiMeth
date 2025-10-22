@@ -4,6 +4,14 @@
 🔭 **What I'm currently working on**:
 I am developing a Local AI Agentic System, leveraging the LangChain framework to build optimized and private inference pipelines for large-scale data processing.
 
+## 🌱 Learning Path:
+- Deep diving into **Machine Learning** to master predictive modeling techniques.
+- Exploring **Data Mining** methods for extracting valuable insights from large datasets.
+- Enhancing my skills in **Information Retrieval** to improve search and recommendation systems.
+- Gaining expertise in **Massive Data Processing** to efficiently handle and analyze large-scale data.
+- Exploring **Cloud Computing** for scalable data solutions and deployment of AI models.
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -16,15 +24,6 @@ I am developing a Local AI Agentic System, leveraging the LangChain framework to
 | **Deployment/Apps**   | Streamlit, Docker                |
 | **Version Control**   | Git, GitHub                                              |
 
-
-## 🌱 Learning Path:
-- Deep diving into **Machine Learning** to master predictive modeling techniques.
-- Exploring **Data Mining** methods for extracting valuable insights from large datasets.
-- Enhancing my skills in **Information Retrieval** to improve search and recommendation systems.
-- Gaining expertise in **Massive Data Processing** to efficiently handle and analyze large-scale data.
-- Exploring **Cloud Computing** for scalable data solutions and deployment of AI models.
-
----
 
 ## 🤝 Let’s Connect!
 
