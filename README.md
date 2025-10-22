@@ -4,33 +4,25 @@
 🔭 **What I'm currently working on**:
 I am developing a Local AI Agentic System, leveraging the LangChain framework to build optimized and private inference pipelines for large-scale data processing.
 
-🌱 **Learning Path**:
-Deep diving into **Machine Learning**, **Data Mining**, **Information Retrieval**, and **Massive Data Processing** to enhance my skills in data-driven problem-solving.
-
-📫 **How to reach me**:  
-Feel free to email me at: [niumimethma@outlook.com](mailto:niumimethma@outlook.com)
-
-🌐 **Let's Connect**:  
-[LinkedIn - niumimethma](https://www.linkedin.com/in/niumimethma)
-
----
 
 ## 🛠️ Tech Stack
 
-| Category           | Tools & Technologies                          |
-| :---               | :---                                          |
-| **Languages**       | Python, SQL, Bash                             |
-| **Machine Learning**| LangChain, Scikit-learn, TensorFlow           |
-| **Data Analytics**  | Pandas, NumPy, Apache Spark                  |
-| **Visualization**   | Matplotlib, Seaborn                          |
-| **Deployment**      | Docker, Git/GitHub, Streamlit                |
-| **Version Control** | Git                                            |
+| **Category**         | **Tools & Technologies**                                 |
+| :---                 | :---                                                     |
+| **Languages**         | Python, SQL, Bash                                        |
+| **Data Manipulation** | Pandas, NumPy           |
+| **Machine Learning**  | Scikit-learn, XGBoost, TensorFlow/Keras, LangChain (for LLM Ops) |
+| **Visualization**     | Matplotlib, Seaborn                                     |
+| **Deployment/Apps**   | Streamlit, Docker                |
+| **Version Control**   | Git, GitHub                                              |
 
 
-## 🌱 Currently Exploring:
-- Real-time **AI Inference Pipelines** and model optimization.
-- Deepening my understanding of **Massive Data Processing** with tools like Apache Spark.
-- Exploring the integration of **cloud computing** for scalable data solutions.
+## 🌱 Learning Path:
+- Deep diving into **Machine Learning** to master predictive modeling techniques.
+- Exploring **Data Mining** methods for extracting valuable insights from large datasets.
+- Enhancing my skills in **Information Retrieval** to improve search and recommendation systems.
+- Gaining expertise in **Massive Data Processing** to efficiently handle and analyze large-scale data.
+- Exploring **Cloud Computing** for scalable data solutions and deployment of AI models.
 
 ---
 
